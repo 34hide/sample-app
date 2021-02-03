@@ -42,3 +42,6 @@ $ rails server
 
 * **email** : sample@email.com
 * **password** : password
+* 
+
+ A8~A9かなりてこずった
